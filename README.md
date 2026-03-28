@@ -27,5 +27,5 @@ Please implement the following member functions in the **AList.h**.
    
 ## Submission:
 
-This lab is due April 11th, by midnight 11:59pm. Please submit your **List.h**, **AList.h**, **Stack.h**  on BB. 
+This lab is due April 4th, by midnight 11:59pm. Please submit your **List.h**, **AList.h**, **Stack.h**  on BB. 
    
